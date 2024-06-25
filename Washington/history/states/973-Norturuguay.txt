@@ -1,0 +1,15 @@
+state={
+	id=973
+	name="STATE_973"
+	state_category = metropolis
+	history={
+		owner = SPR
+		add_core_of = SPR
+	}
+	provinces={
+		3938
+	}
+	manpower=3212020
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 909
+	name = "STATE_909"
+	manpower = 4520129
+	state_category = metropolis
+	
+	history = {
+		victory_points = {
+			11506 50 
+		}
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = FRA
+	}
+
+	provinces = {
+		9523 9534 11506
+ 	}
+
+	local_supplies = 0.0 
+}
