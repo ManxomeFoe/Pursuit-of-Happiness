@@ -4,7 +4,7 @@ ideologies = {
 		
 		types = {
 		
-			anarchism = {
+			frontierism = {
 			}
 			
 			makhnoism = {
@@ -144,6 +144,9 @@ ideologies = {
 			}
 
 			anti_reformist = {
+			}
+
+			crimson_thought = {
 			}
 		}
 		
@@ -412,7 +415,7 @@ ideologies = {
 			global_idealism = {
 			}
 		
-			centrism = {
+			centrist = {
 			}
 		
 			internationalist = {
@@ -608,7 +611,7 @@ ideologies = {
 			kunism = {
 			}
 			
-			anti_revisionism = {
+			anti_revisionist = {
 			}
 			
 			maoist = {
@@ -768,6 +771,9 @@ ideologies = {
 
 			social_nationalism = {
 			}
+
+			black_hand_thought = {
+			}
 			
 			americanist_beckinridgian = {
 			}
@@ -785,6 +791,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_3"
 			"FACTION_NAME_FASCIST_4"
 			"FACTION_NAME_FASCIST_5"
+			"FACTION_NAME_FASCIST_6"
 		}
 		
 		color = { 0 0 0 }
@@ -819,7 +826,7 @@ ideologies = {
 			absolutism  = {
 			}
 			
-			oligarchism  = {
+			oligarchist  = {
 			}
 			
 			militarism = {
