@@ -1,17 +1,33 @@
 ﻿capital = 52
 
 set_politics = {
-		ruling_party = neutrality
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
+	ruling_party = despotism
+	last_election = "1935.11.14"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	toryism = 6
+	liberalism = 15
+	maximalism = 12
+	socialism = 6
+	despotism = 29
+	raronism = 2
+	guerrism = 9
+	revivalism = 14
+	reactionism = 7
+}
+
+create_country_leader = {
+	name = "Duke Rupprecht"
+	desc = "ruperts"
+	picture = "rupprecht.dds"
+	ideology = militarism
+	traits = {
+		
 	}
-	set_popularities = {
-		democratic = 25
-		fascism = 20
-		communism = 5
-		neutrality = 50
-	}
+}
 
 # Starting tech
 set_technology = {
@@ -160,17 +176,34 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = neutrality
-	last_election = "1936.1.1"
+	ruling_party = despotism
+	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = yes
+}
 
-}
 set_popularities = {
-	democratic = 30
-	fascism = 10
-	communism = 60
+	toryism = 6
+	liberalism = 15
+	maximalism = 12
+	socialism = 6
+	despotism = 29
+	raronism = 2
+	guerrism = 9
+	revivalism = 14
+	reactionism = 7
 }
+
+create_country_leader = {
+	name = "Duke Rupprecht"
+	desc = "ruperts"
+	picture = "rupprecht.dds"
+	ideology = militarism
+	traits = {
+		
+	}
+}
+
 
 add_ideas = {
 }
