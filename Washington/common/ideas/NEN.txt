@@ -1,7 +1,7 @@
 ideas = {
 
 	country = {
-		spirit_of_mcarthur = {
+		spirit_of_macarthur = {
 			
 			allowed = {
 				always = no
@@ -55,7 +55,7 @@ ideas = {
 			}
 		}
 		
-		which_side_you_on = {
+		return_to_democracy = {
 			
 			allowed = {
 				always = no
@@ -68,27 +68,10 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				stability_factor = -0.075
-				industrial_capacity_factory = -0.1
-				production_speed_buildings_factor = -0.07
-			}
-		}
-		
-		let_freedom_ring_again = {
-			
-			allowed = {
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			removal_cost = -1
-			
-			modifier = {
-				stability_factor = -0.052
-				political_power_cost = 1
+				stability_factor = 0.10
+				marxism_drift = 0.01
+				liberalism_drift = 0.01
+				revivalism_drift = 0.01
 			}
 		}
 	}

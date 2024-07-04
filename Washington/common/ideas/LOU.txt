@@ -1,7 +1,7 @@
 ideas = {
 
 	country = {
-		ITA_confederation_observer = {
+		political_abomination = {
 			
 			allowed = {
 				always = no
@@ -14,10 +14,12 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
+				stability_factor = -0.20
+				political_advisor_cost_factor = 0.50
 			}
 		}
 		
-		PAP_absolute_theocracy = {
+		fluid_borders = {
 			
 			allowed = {
 				always = no
@@ -31,11 +33,11 @@ ideas = {
 			
 			modifier = {
 				stability_factor = -0.15
-				political_power_factor = 0.3
+				monthly_population = 0.10
 			}
 		}
-
-		PAP_backwards_economy = {
+		
+		blue_socialism = {
 			
 			allowed = {
 				always = no
@@ -48,9 +50,10 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				consumer_goods_factor = 0.05
+				stability_factor = -0.10
+				industrial_capacity_factory = 0.10
+				consumer_goods_factor = -0.30
 			}
 		}
-
 	}
 }
