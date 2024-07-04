@@ -3,7 +3,10 @@ state={
 	name="STATE_970"
 	history={
 		victory_points = {
-			4975 1 
+			4975 5
+		}
+		victory_points = {
+			10642 1
 		}
 		add_core_of = TEJ
 		owner = TEJ

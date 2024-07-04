@@ -24,14 +24,22 @@ state={
 		}
 		add_core_of = TEJ
 		victory_points = {
-			10337 10 
+			10337 15 
 		}
 		victory_points = {
-			3960 10 
+			3960 30 
 		}
 		victory_points = {
-			12782 1 
+			12782 10
 		}
+		victory_points = {
+			7836 3
+		}
+		victory_points = {
+			6798 5
+		}
+
+
 
 	}
 

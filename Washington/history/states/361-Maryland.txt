@@ -9,10 +9,10 @@ state={
 	history={
 		owner = NEN
 		victory_points = {
-			3957 40 
+			3957 5
 		}
 		victory_points = {
-			6984 5 
+			6984 10
 		}
 		buildings = {
 			infrastructure = 4 #was: 7
