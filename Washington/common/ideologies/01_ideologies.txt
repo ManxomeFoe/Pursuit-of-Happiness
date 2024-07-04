@@ -146,6 +146,9 @@ ideologies = {
 			anti_reformist = {
 			}
 
+			anti_italian = {
+			}
+
 			crimson_thought = {
 			}
 		}
@@ -188,6 +191,9 @@ ideologies = {
 		types = {
 		
 			biblism = {
+			}
+
+			papal_theocratism = {
 			}
 
 			lutherism = {
@@ -359,6 +365,9 @@ ideologies = {
 			}
 		
 			worker_labourist = {
+			}
+
+			italian_labourism = {
 			}
 		}
 		
@@ -549,6 +558,18 @@ ideologies = {
 
 			traditionalist = {
 			}
+
+			new_english_toryism = {
+			}
+
+			southern_toryism = {
+			}
+
+			quebecois_toryism = {
+			}
+
+			kaiser_conservative = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -618,6 +639,9 @@ ideologies = {
 			}
 
 			debian_internationalism = {
+			}
+
+			polish_councilism = {
 			}
 		}
 		
