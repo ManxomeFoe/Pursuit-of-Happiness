@@ -8868,4 +8868,87 @@ spriteTypes = {
 		name = "GFX_idea_merchants_of_venice"
 		texturefile = "gfx/interface/ideas/merchants_of_venice.dds"
 	}
+		spriteType = {
+		name = "GFX_idea_NAP_failed_state"
+		texturefile = "gfx/interface/ideas/NAP_failed_state.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_brigantaggio"
+		texturefile = "gfx/interface/ideas/brigantaggio.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_enemy_of_italy"
+		texturefile = "gfx/interface/ideas/enemy_of_italy.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_SIC_successful_revolution"
+		texturefile = "gfx/interface/ideas/SIC_successful_revolution.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_constitutionally_mandated_spending"
+		texturefile = "gfx/interface/ideas/constitutionally_mandated_spending.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_republican_outrage"
+		texturefile = "gfx/interface/ideas/republican_outrage.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_surrounded"
+		texturefile = "gfx/interface/ideas/surrounded.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_polish_liberation_army"
+		texturefile = "gfx/interface/ideas/polish_liberation_army.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_spirit_of_macarthur"
+		texturefile = "gfx/interface/ideas/spirit_of_macarthur.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_british_mercantilisim"
+		texturefile = "gfx/interface/ideas/british_mercantilism.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_return_to_democracy"
+		texturefile = "gfx/interface/ideas/return_to_democracy.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_industrialized_sharecropping"
+		texturefile = "gfx/interface/ideas/industrialized_sharecropping.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_the_kings_dominion"
+		texturefile = "gfx/interface/ideas/the_kings_dominion.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_invisible_empires"
+		texturefile = "gfx/interface/ideas/invisible_empires.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_backbone_of_the_army"
+		texturefile = "gfx/interface/ideas/backbone_of_the_army.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_political_abomination"
+		texturefile = "gfx/interface/ideas/political_abomination.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_fluid_borders"
+		texturefile = "gfx/interface/ideas/fluid_borders.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_blue_socialism"
+		texturefile = "gfx/interface/ideas/blue_socialism.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_PAP_absolute_theocracy"
+		texturefile = "gfx/interface/ideas/PAP_absolute_theocracy.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_PAP_backwards_economy"
+		texturefile = "gfx/interface/ideas/PAP_backwards_economy.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_TUS_budding_democracy"
+		texturefile = "gfx/interface/ideas/TUS_budding_democracy.dds"
 }
