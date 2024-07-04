@@ -4,5 +4,33 @@ spriteTypes = {
 		name = "GFX_ideology_italianunionist"
 		texturefile = "gfx/interface/ideologies/italianunionist.dds"
 	}
+	spriteType = {
+		name = "GFX_ideology_italian_labourism"
+		texturefile = "gfx/interface/ideologies/italian_labourism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_anti_italian"
+		texturefile = "gfx/interface/ideologies/anti_italian.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_polish_councilism"
+		texturefile = "gfx/interface/ideologies/polish_councilism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_new_english_toryism"
+		texturefile = "gfx/interface/ideologies/new_english_toryism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_southern_toryism"
+		texturefile = "gfx/interface/ideologies/southern_toryism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_curzonism"
+		texturefile = "gfx/interface/ideologies/curzonism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_papal_theocratism"
+		texturefile = "gfx/interface/ideologies/papal_theocratism.dds"
+	}
 }
 	
