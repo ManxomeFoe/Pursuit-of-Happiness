@@ -72,10 +72,10 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Carlos I"
-	desc = "carlos_SIC_desc"
-	picture = "Carlos.dds"
-	ideology = anti_reformist
+	name = "Ferdinand IV"
+	desc = "ferdinand_NAP_desc"
+	picture = "ferdinandpius.dds"
+	ideology = anti_italian
 	traits = {
 		#
 	}

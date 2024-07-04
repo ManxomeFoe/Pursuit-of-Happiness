@@ -7,6 +7,9 @@ set_technology = {
 
 add_ideas = {
 	british_financial_panic
+	political_abomination
+	fluid_borders
+	blue_socialism
 }
 
 set_convoys = 20
@@ -65,12 +68,12 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 29
-	fascism = 9
-	communism = 4
-	neutrality = 12
-	raronism = 40
-	theologism = 6
+	raronism = 55
+	theologism = 15
+	labourism = 11
+	Marxism = 9
+	liberalism = 5
+	guerrism = 5
 }
 
 create_country_leader = {

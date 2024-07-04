@@ -7,6 +7,10 @@ set_technology = {
 
 add_ideas = {
 	british_financial_panic
+	the_kings_dominion
+	industrialized_sharecropping
+	invisible_empires
+	backbone_of_the_army
 }
 
 set_convoys = 20
@@ -58,26 +62,25 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = toryism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 35
-	fascism = 33
-	communism = 0
-	neutrality = 26
-	raronism = 4
-	theologism = 2
+	toryism = 47
+	liberalism = 33
+	revivalism = 18
+	Marxism = 1
+	guerrism = 1
 }
 
 create_country_leader = {
 	name = "Robert Alexander"
 	desc = "robertalexander_description"
 	picture = "robert.dds"
-	ideology = conservatism
+	ideology = southern_toryism
 	traits = { hawk }
 		#
 	}

@@ -2,7 +2,10 @@ capital = 468
 
 # Starting tech
 set_technology = {
-	infantry_weapons = 1
+	infantry weapons = 1
+}
+
+add_ideas = {
 }
 
 set_convoys = 50
@@ -54,24 +57,25 @@ set_convoys = 50
 
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1936.1.1"
+	ruling_party = toryism
+	last_election = "1932.2.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 38
-	fascism = 37
-	communism = 22
-	neutrality = 3
+	toryism = 23
+	liberalism = 21
+	labourism = 22
+	Marxism = 14
+	revivalism = 20
 }
 
 create_country_leader = {
-	name = "Adelard Godbout"
-	desc = "Adelard_Godbout_Desc"
-	picture = "godbout.dds"
-	ideology = conservatism
+	name = "William Henry Pferinger Elkins"
+	desc = "Elkins_desc"
+	picture = "elkins.dds"
+	ideology = quebecois_toryism
 	traits = {
 		#
 	}

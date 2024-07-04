@@ -75,7 +75,7 @@ create_country_leader = {
 	name = "Francesco Saverio Nitti"
 	desc = "Francesco_desc"
 	picture = "francesco.dds"
-	ideology = progressivism
+	ideology = italianunionist
 	traits = {
 		#
 	}

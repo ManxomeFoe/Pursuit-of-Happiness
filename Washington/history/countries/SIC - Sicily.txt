@@ -79,7 +79,7 @@ create_country_leader = {
 	name = "Peppino Garibaldi"
 	desc = "peppino_garibaldi_desc"
 	picture = "peppino_garibaldi.dds"
-	ideology = egalitarianism
+	ideology = italian_labourism
 	traits = {
 		#
 	}

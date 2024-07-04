@@ -76,7 +76,7 @@ create_country_leader = {
 	name = "Joseph Ferdinand"
 	desc = "joseph_ferdinand_desc"
 	picture = "joseph_ferdinand.dds"
-	ideology = progressivism
+	ideology = italianunionist
 	traits = {
 		#
 	}

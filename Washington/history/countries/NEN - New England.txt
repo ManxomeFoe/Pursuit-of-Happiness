@@ -7,10 +7,9 @@ set_technology = {
 
 add_ideas = {
 	british_financial_panic
-	spirit_of_mcarthur
+	spirit_of_macarthur
 	british_mercantilisim
-	which_side_you_on
-	let_freedom_ring_again
+	return_to_democracy
 }
 
 set_convoys = 20
@@ -62,24 +61,25 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1936.1.1"
+	ruling_party = toryism
+	last_election = "1930.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 60
-	fascism = 3
-	communism = 20
-	neutrality = 17
+	toryism = 35
+	liberalism = 36
+	labourism = 19
+	libertarianism = 8
+	socialism = 2
 }
 
 create_country_leader = {
-	name = "Keen Johnson"
-	desc = ""
-	picture = "keen.dds"
-	ideology = conservatism
+	name = "Winston Churchill"
+	desc = "ChurchillW_desc"
+	picture = "winston_churchill.dds"
+	ideology = new_english_toryism
 	traits = {
 		#
 	}
