@@ -151,6 +151,12 @@ ideologies = {
 
 			crimson_thought = {
 			}
+
+			danish_monarchy = {
+			}
+
+			swedish_monarchy = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -849,6 +855,9 @@ ideologies = {
 		
 			absolutism  = {
 			}
+
+			turkish_nationalism = {
+			}
 			
 			oligarchist  = {
 			}
@@ -857,6 +866,12 @@ ideologies = {
 			}
 			
 			dictatorship = {
+			}
+
+			russian_absolutism = {
+			}
+	
+			edoism = {
 			}
 		}
 
