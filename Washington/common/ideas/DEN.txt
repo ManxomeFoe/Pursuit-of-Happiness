@@ -1,7 +1,7 @@
 ideas = {
 
 	country = {
-		ITA_confederation_member = {
+		DEN_german_question = {
 			
 			allowed = {
 				always = no
@@ -14,12 +14,12 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				stability_factor = 0.10
-				conscription_factor = 0.10
+				stability_factor = -0.15
+				conscription_factor = -0.005
 			}
 		}
 		
-		SIC_successful_revolution = {
+		DEN_bloated_navy = {
 			
 			allowed = {
 				always = no
@@ -32,11 +32,9 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				stability_factor = 0.20
-				war_support_factor = 0.50
-				army_core_attack_factor = 0.10
-				army_core_defence_factor = 0.10
-				conscription_factor = 0.15
+				consumer_goods_factor = 0.05
+				production_speed_dockyard_factor = -0.10
+				repair_speed_factor = -0.10
 			}
 		}
 	}
