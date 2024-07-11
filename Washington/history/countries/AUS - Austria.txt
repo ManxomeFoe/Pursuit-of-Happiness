@@ -18,6 +18,12 @@ if = {
 		}
 	}
 }
+
+add_ideas = {
+	holy_roman_emperor
+	slavic_question
+	ostverlust
+}
 set_research_slots = 3
 
 set_technology = {
@@ -80,7 +86,7 @@ create_country_leader = {
 	}
 }
 
-create_faction = Bidenspakt 
+create_faction = HRE
 add_to_faction = BOS
 add_to_faction = BAY
 add_to_faction = BAD

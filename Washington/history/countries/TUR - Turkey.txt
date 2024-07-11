@@ -1,39 +1,5 @@
 ﻿capital = 797
 
-if = {
-	limit = {
-		NOT = {
-			has_dlc = "No Step Back"
-		}
-	}
-	set_oob = "TUR_1936"
-}
-if = {
-	limit = {
-		has_dlc = "No Step Back"
-	}
-	set_oob = "TUR_1936_nsb"
-}
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "TUR_1936_naval_mtg"
-	else = {
-		set_naval_oob = "TUR_1936_naval_legacy"
-	}
-}
-if = {
-	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "TUR_1936_air_bba"
-	else = {
-		set_air_oob = "TUR_1936_air_legacy"
-		set_technology = {
-			early_fighter = 1
-			early_bomber = 1
-			CAS1 = 1
-		}
-	}
-}
-
 ###################
 #### 3D MODELS ####
 ###################
@@ -46,9 +12,15 @@ if = {
 
 set_research_slots = 3
 
-set_stability = 0.6
+set_stability = 0.7
 set_war_support = 0.1
 add_command_power = 20
+
+add_ideas = {
+	dead_man_of_europe
+	ottoman_army
+	arab_dawn
+}
 
 set_politics = {
 	ruling_party = despotism
@@ -70,7 +42,7 @@ create_country_leader = {
 	name = "Sabiha Sultan"
 	desc = " Sabiha Sultan came to power unexpectedly after her late father Mehmed IV changed the succession laws to allow her to be his heir. As the first female Sultana of the Ottoman Empire she faces widespread opposition not from the rising Arab and socialist threats but within her own court as Ottoman traditionalists seek to undermine her authority and replace her with her relative Abdulmejid. With all these challenges will she prove that she's got what it takes to rule the old state? "
 	picture = "sultana.dds"
-	ideology = militarism
+	ideology = turkish_nationalism
 	traits = {
 		
 	}
@@ -186,17 +158,7 @@ if = {
 		}
 		356 = {
 			add_dynamic_modifier = { modifier = islamist_opposition }
-		}
-		add_ideas = {
-			limited_conscription
-			export_focus
-			civilian_economy
-			TUR_kemalist_army_officers_limited_power_loyal
-			TUR_sectarian_woes
-			TUR_disorganised_armed_forces
-			TUR_debt_council
-		}
-		
+		}		
 		353 = {
 			start_resistance = yes
 			set_compliance = 20
