@@ -8951,4 +8951,93 @@ spriteTypes = {
 		spriteType = {
 		name = "GFX_idea_TUS_budding_democracy"
 		texturefile = "gfx/interface/ideas/TUS_budding_democracy.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_bear_of_the_north"
+		texturefile = "gfx/interface/ideas/bear_of_the_north.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_diversity_is_our_strength"
+		texturefile = "gfx/interface/ideas/diversity_is_our_strength.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_old_tyrants_will"
+		texturefile = "gfx/interface/ideas/old_tyrants_will.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_cracks_in_the_ice"
+		texturefile = "gfx/interface/ideas/cracks_in_the_ice.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_holy_roman_emperor"
+		texturefile = "gfx/interface/ideas/holy_roman_emperor.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_ostverlust"
+		texturefile = "gfx/interface/ideas/ostverlust.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_slavic_question"
+		texturefile = "gfx/interface/ideas/slavic_question.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_dead_man_of_europe"
+		texturefile = "gfx/interface/ideas/dead_man_of_europe.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_ottoman_army"
+		texturefile = "gfx/interface/ideas/ottoman_army.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_arab_dawn"
+		texturefile = "gfx/interface/ideas/arab_dawn.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_DEN_german_question"
+		texturefile = "gfx/interface/ideas/DEN_german_question.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_DEN_bloated_navy"
+		texturefile = "gfx/interface/ideas/DEN_bloated_navy.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_SWE_finnish_question"
+		texturefile = "gfx/interface/ideas/SWE_finnish_question.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_SWE_congo_trouble"
+		texturefile = "gfx/interface/ideas/SWE_congo_trouble.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_SWE_parliament_vs_king"
+		texturefile = "gfx/interface/ideas/SWE_parliament_vs_king.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_HUN_humiliation_of_franzensburg"
+		texturefile = "gfx/interface/ideas/HUN_humiliation_of_franzensburg.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_HUN_budapest_rada"
+		texturefile = "gfx/interface/ideas/HUN_budapest_rada.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_HUN_red_army"
+		texturefile = "gfx/interface/ideas/HUN_red_army.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_JAP_showa_emperor"
+		texturefile = "gfx/interface/ideas/JAP_showa_emperor.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_JAP_reluctant_modernization"
+		texturefile = "gfx/interface/ideas/JAP_reluctant_modernization.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_JAP_philippine_disaster"
+		texturefile = "gfx/interface/ideas/JAP_philippine_disaster.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_JAP_trade_war"
+		texturefile = "gfx/interface/ideas/JAP_trade_war.dds"
+	}
 }
