@@ -16,6 +16,9 @@ state={
 			}
 		}
 		add_core_of = NEN
+		victory_points = {
+			4285 2
+		}
 	}
 
 	provinces={
