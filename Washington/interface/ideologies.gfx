@@ -60,5 +60,13 @@ spriteTypes = {
 		name = "GFX_ideology_edoism"
 		texturefile = "gfx/interface/ideologies/edoism.dds"
 	}
+	spriteType = {
+		name = "GFX_ideology_francoist"
+		texturefile = "gfx/interface/ideologies/francoist.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_orangism"
+		texturefile = "gfx/interface/ideologies/orangism.dds"
+	}
 }
 	

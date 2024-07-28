@@ -6288,5 +6288,32 @@ spriteTypes = {
 		name = "GFX_focus_SMB_reescalate_the_naval_arms_race"
 		texturefile = "gfx/interface/goals/focus_SMB_reescalate_the_naval_arms_race.dds"
 	}
-
+	SpriteType = {
+		name = "GFX_SPR_royal_promotion"
+		texturefile = "gfx/interface/goals/focus_SPR_royal_promotion.dds"
+	}
+	SpriteType = {
+		name = "GFX_SPR_oppose_guerrisim"
+		texturefile = "gfx/interface/goals/focus_SPR_oppose_guerrisim.dds"
+	}
+	SpriteType = {
+		name = "GFX_SPR_a_guerrist_emperor"
+		texturefile = "gfx/interface/goals/focus_SPR_a_guerrist_emperor.dds"
+	}
+	SpriteType = {
+		name = "GFX_SPR_start_national_revival"
+		texturefile = "gfx/interface/goals/focus_SPR_start_national_revival.dds"
+	}
+	SpriteType = {
+		name = "GFX_SPR_a_guerrist_puppet"
+		texturefile = "gfx/interface/goals/focus_SPR_a_guerrist_puppet.dds"
+	}
+	SpriteType = {
+		name = "GFX_SPR_investigate_the_zarautz_villa"
+		texturefile = "gfx/interface/goals/focus_SPR_investigate_the_zarautz_villa.dds"
+	}
+	SpriteType = {
+		name = "GFX_SPR_convene_the_grand_council"
+		texturefile = "gfx/interface/goals/focus_SPR_convene_the_grand_council.dds"
+	}
 }

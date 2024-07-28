@@ -9040,4 +9040,40 @@ spriteTypes = {
 		name = "GFX_idea_JAP_trade_war"
 		texturefile = "gfx/interface/ideas/JAP_trade_war.dds"
 	}
+		spriteType = { 
+		name = "GFX_idea_NWS_jewel_of_the_empire"
+		texturefile = "gfx/interface/ideas/NWS_jewel_of_the_empire.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_NWS_treaty_of_chapultepec"
+		texturefile = "gfx/interface/ideas/NWS_treaty_of_chapultepec.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_NWS_tejas_oil_boom"
+		texturefile = "gfx/interface/ideas/NWS_tejas_oil_boom.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_NWS_disjointed_rail_network"
+		texturefile = "gfx/interface/ideas/NWS_disjointed_rail_network.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_NWS_norte"
+		texturefile = "gfx/interface/ideas/NWS_norte.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_HOL_orange_absolutism"
+		texturefile = "gfx/interface/ideas/HOL_orange_absolutism.dds"
+	}
+		spriteType = { 
+		name = "GFX_idea_HOL_splintering_empire"
+		texturefile = "gfx/interface/ideas/HOL_splintering_empire.dds"
+	}
+	spriteType = { 
+		name = "GFX_idea_HOL_paranoid_neutrality"
+		texturefile = "gfx/interface/ideas/HOL_paranoid_neutrality.dds"
+	}
+	spriteType = { 
+		name = "GFX_idea_HOL_patriottentijd"
+		texturefile = "gfx/interface/ideas/HOL_patriottentijd.dds"
+	}
 }
