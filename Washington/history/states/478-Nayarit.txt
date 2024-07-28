@@ -2,7 +2,7 @@
 state={
 	id=478
 	name="STATE_478" # Jalisco
-	manpower = 2470875
+	manpower = 4470875
 	
 	state_category = town
 	
@@ -18,10 +18,10 @@ state={
 		}
 		add_core_of = NWS
 		victory_points = {
-			13089 10
+			13089 20
 		}
 		victory_points = {
-			10172 5
+			10172 10
 		}
 		victory_points = {
 			12746 1

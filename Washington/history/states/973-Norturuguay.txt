@@ -5,11 +5,21 @@ state={
 	history={
 		owner = SPR
 		add_core_of = SPR
+		victory_points = {
+			3938 50
+		}
+		buildings = {
+			infrastructure = 4 #was: 6
+			industrial_complex = 4
+			arms_factory = 3
+			air_base = 5
+		}
 	}
 	provinces={
 		3938
 	}
-	manpower=3212020
+	
+	manpower=4212020
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

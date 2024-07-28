@@ -8,8 +8,8 @@ state={
 		victory_points = {
 			10642 1
 		}
-		add_core_of = TEJ
-		owner = TEJ
+		add_core_of = NWS
+		owner = NWS
 	}
 	provinces={
 		868 1738 2102 3867 3883 4975 8070 10642 10867 12627 12684 12720 12791 

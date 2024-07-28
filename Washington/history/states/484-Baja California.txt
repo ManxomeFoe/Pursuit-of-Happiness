@@ -1,11 +1,11 @@
 state = {
 	id=484
 	name="STATE_484"
-	manpower = 108841
+	manpower = 408841
 	state_category = rural
 	
 	history={
-		owner = SON
+		owner = NWS
 		buildings = {
 			infrastructure = 2
 			air_base = 3
@@ -16,7 +16,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = SON
+		add_core_of = NWS
 
 		victory_points = {
 			12461 10

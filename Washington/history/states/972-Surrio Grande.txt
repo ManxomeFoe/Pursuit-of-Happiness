@@ -2,8 +2,8 @@ state={
 	id=972
 	name="STATE_972"
 	history={
-		add_core_of = TEJ
-		owner = TEJ
+		add_core_of = NWS
+		owner = NWS
 		victory_points = {
 			10740 15 
 		}

@@ -2,7 +2,7 @@
 state={
 	id=485
 	name="STATE_485"
-	manpower = 1598311
+	manpower = 2598311
 	
 	state_category = rural
 
@@ -22,10 +22,10 @@ state={
 		}
 		add_core_of = NWS
 		victory_points = {
-			10730 5
+			10730 10
 		}
 		victory_points = {
-			4887 3
+			4887 5
 		}
 		victory_points = {
 			8032 1

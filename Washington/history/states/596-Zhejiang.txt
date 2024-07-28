@@ -4,9 +4,9 @@ state={
 	name="STATE_596"
 
 	history={
-		owner = GXC
+		owner = HEV
 		add_core_of = CHI
-		add_core_of = GXC
+		add_core_of = HEV
 		victory_points = {
 			9974 1 
 		}

@@ -25,7 +25,7 @@ state={
 		}
 		add_core_of = NWS
 		victory_points = {
-			10886 3 
+			10886 15
 		}
 
 	}

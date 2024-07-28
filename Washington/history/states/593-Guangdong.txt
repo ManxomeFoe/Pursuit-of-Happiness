@@ -9,9 +9,10 @@ state={
 	}
 
 	history={
-		owner = LKM
-		add_core_of = LKM
+		owner = GXC
+		add_core_of = GXC
 		add_core_of = CHI
+		add_core_of = PRC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -40,7 +41,7 @@ state={
 	}
 
 	provinces={
-		1120 1202 9970 9997 10080 12014 12095 
+		1078 1120 1162 1202 4165 4207 7067 7141 7182 9970 9978 9997 10080 12014 12095 
 	}
 	manpower=12700000
 	buildings_max_level_factor=1.000

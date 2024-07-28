@@ -2,7 +2,7 @@
 state={
 	id=277
 	name="STATE_277"
-	manpower = 3424403
+	manpower = 6024403
 	
 	state_category = city
 
@@ -20,10 +20,10 @@ state={
 		}
 		add_core_of = NWS
 		victory_points = {
-			1965 25
+			1965 50
 		}
 		victory_points = {
-			2008 10
+			2008 20
 		}
 	}
 

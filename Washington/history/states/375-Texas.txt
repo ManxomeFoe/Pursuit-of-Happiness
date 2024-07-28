@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = TEJ
+		owner = NWS
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 9
@@ -22,12 +22,12 @@ state={
 			}
 
 		}
-		add_core_of = TEJ
+		add_core_of = NWS
 		victory_points = {
 			10337 15 
 		}
 		victory_points = {
-			3960 30 
+			3960 20
 		}
 		victory_points = {
 			12782 10
