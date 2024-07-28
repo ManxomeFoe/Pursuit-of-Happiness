@@ -1,0 +1,182 @@
+focus_tree = {
+	id = FRA
+	continuous_focus_position = { x = 150 y = 2740 } 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = FRA
+		}
+	}
+	#1,000 More Years of the Capets
+	focus = {
+		id = FRA_1000moreyearsofthecapets
+		icon = GFX_FRA_1000moreyearsofthecapets-86
+		x = 9
+		y = 4
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_the_election_of_our_lifetime  }
+		mutually_exclusive = { focus = FRA_therepublicanswin  }
+	}
+
+	#The Election of Our Lifetime
+	focus = {
+		id = FRA_the_election_of_our_lifetime
+		icon = GFX_FRA_the_election_of_our_lifetime-645536
+		x = 7
+		y = 3
+		cost = 1
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+	#The Republicans Win!
+	focus = {
+		id = FRA_therepublicanswin
+		icon = GFX_focus_fra_french_union
+		x = 5
+		y = 4
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_the_election_of_our_lifetime  }
+	}
+
+	#Investigate the Army of France
+	focus = {
+		id = FRA_investigate_the_army_of_france
+		icon = GFX_focus_chi_army_reform
+		x = 9
+		y = 5
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_1000moreyearsofthecapets  }
+	}
+
+	#Rally the Third Estate
+	focus = {
+		id = FRA_rally_the_third_estate
+		icon = GFX_focus_generic_military_academy
+		x = 5
+		y = 5
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_therepublicanswin  }
+	}
+
+	#Oath at Menilmontant Bakery
+	focus = {
+		id = FRA_oath_at_menilmontant_bakery
+		icon = GFX_focus_generic_support_the_left_right
+		x = 5
+		y = 6
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_rally_the_third_estate  }
+	}
+
+	#Appeal to the Ranks
+	focus = {
+		id = FRA_appeal_to_the_ranks
+		icon = GFX_FRA_appeal_to_the_ranks-645816
+		x = 4
+		y = 7
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_oath_at_menilmontant_bakery  }
+	}
+
+	#Appeal to the Masses
+	focus = {
+		id = FRA_appeal_to_the_masses
+		icon = GFX_focus_focus_fra_maquis
+		x = 6
+		y = 7
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_oath_at_menilmontant_bakery  }
+		mutually_exclusive = { focus = FRA_appeal_to_the_ranks  }
+	}
+
+	#Instate a Loyalty Oath to the King
+	focus = {
+		id = FRA_instate_a_loyalty_oath_to_the_king
+		icon = GFX_focus_hun_elect_a_king
+		x = 9
+		y = 6
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_investigate_the_army_of_france  }
+	}
+
+	#Assemble the Paramilitaries
+	focus = {
+		id = FRA_assemble_the_paramilitaries
+		icon = GFX_focus_eng_move_to_secure_the_dominions
+		x = 5
+		y = 8
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_appeal_to_the_ranks  focus = FRA_appeal_to_the_masses  }
+	}
+
+	#Metropole Army
+	focus = {
+		id = FRA_metropole_army
+		icon = GFX_focus_focus_fra_border
+		x = 8
+		y = 7
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_instate_a_loyalty_oath_to_the_king  }
+	}
+
+	#The African Veterans
+	focus = {
+		id = FRA_the_african_veterans
+		icon = GFX_focus_fra_le_deluge
+		x = 10
+		y = 7
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_instate_a_loyalty_oath_to_the_king  }
+		mutually_exclusive = { focus = FRA_metropole_army  }
+	}
+
+	#The Catholic Army
+	focus = {
+		id = FRA_the_catholic_army
+		icon = GFX_focus_mex_restore_the_army_of_christ
+		x = 9
+		y = 8
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = FRA_metropole_army  focus = FRA_the_african_veterans  }
+	}
+
+}
