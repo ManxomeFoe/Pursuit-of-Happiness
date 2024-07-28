@@ -8,6 +8,10 @@ PAP = {
 	color = rgb { 234 240 132 }
 	color_ui = rgb { 234 240 132 }
 }
+HEV = {
+	color = rgb { 55  71  135 }
+	color_ui = rgb { 55  71  135 }
+}
 SOV = {
 	color = rgb { 65  90  59 }
 	color_ui = rgb { 65  90  59 }
@@ -841,4 +845,12 @@ PAR = {
 TUS = {
 	color = rgb { 166  86  137 }
 	color_ui = rgb { 166  86  137 }
+}
+RKM = {
+	color = rgb { 36  4  97 }
+	color_ui = rgb { 36  4  97 }
+}
+LKM = {
+	color = rgb { 168  17  40 }
+	color_ui = rgb { 168  17  40 }
 }
