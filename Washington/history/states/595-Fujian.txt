@@ -4,9 +4,9 @@ state={
 	name="STATE_595"
 
 	history={
-		owner = GXC
+		owner = HEV
+		add_core_of = HEV
 		add_core_of = CHI
-		add_core_of = GXC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
