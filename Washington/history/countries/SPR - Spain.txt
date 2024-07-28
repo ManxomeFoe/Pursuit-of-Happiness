@@ -59,40 +59,8 @@ set_convoys = 20
 		dispersed_industry2 = 1
 	}
 }
-
 # DIPLOMACY
-if = {
-	limit = {
-		OR = {
-			has_dlc = "Together for Victory"
-			has_dlc = "Man the Guns"
-		}
-	}
-	set_autonomy = {
-		target = TEJ
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.3
-	}
-	set_autonomy = {
-		target = NWS
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.4
-}
-	set_autonomy = {
-		target = NWG
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.3
-}
-	set_autonomy = {
-		target = PRU
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-}
-set_autonomy = {
-		target = SON
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-}
+
 
 set_politics = {
 	ruling_party = guerrism
@@ -109,6 +77,22 @@ set_popularities = {
 	revivalism = 13
 	
 }
+
+create_faction = san_juan_order
+
+set_autonomy = {
+	target = NWS
+	autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+	target = NWG
+	autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+	target = PRU
+	autonomous_state = autonomy_dominion
+}
+
 
 create_country_leader = {
 	name = "Alfonso XIII"

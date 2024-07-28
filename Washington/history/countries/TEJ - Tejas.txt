@@ -70,8 +70,8 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Francisco Franco Bahamonde"
-	desc = ""
+	name = "Francisco Franco"
+	desc = "franc"
 	picture = "franco.dds"
 	ideology = francoist
 	traits = {
