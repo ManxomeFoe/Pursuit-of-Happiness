@@ -157,6 +157,9 @@ ideologies = {
 
 			swedish_monarchy = {
 			}
+
+			orangism = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -576,6 +579,12 @@ ideologies = {
 
 			kaiser_conservative = {
 			}
+
+			prosperian = {
+			}
+
+			chinese_authoritarianism = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -649,6 +658,9 @@ ideologies = {
 
 			polish_councilism = {
 			}
+
+			enlaism = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -706,6 +718,9 @@ ideologies = {
 			}
 			
 			state_populism = {
+			}
+
+			chinese_revivalism = {
 			}
 		}
 		
